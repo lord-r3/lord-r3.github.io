@@ -13,11 +13,15 @@ Education
 ======
 * B.Sc. in Medical Engineering, University of Applied Sciences Koblenz, 2014
 * M.Sc. in Internet Security, University of Applied Sciences Gelsenkirchen, 2017
-* Ph.D in System Security, Ruhr University Bochum, March 2022 (expected)
+* Ph.D in System Security, Ruhr University Bochum, March 2022
+* Professor for Distributed Systems, Rhine-Waal University of Applied Sciences, September 2023
 
 Work experience
 ======
-* 2019-now: Managing Director & Founder
+* 03/2019 - now: Head of Research
+  * AWARE7 GmbH
+
+* 2019-03/2023: Managing Director & Founder
   * AWARE7 GmbH
   * Duties included: Team management, business development, research, acquiring grants
   
@@ -47,6 +51,11 @@ Teaching
  
 Professional Activities
 ======
+* (PC Member) The Network and Distributed System Security (NDSS) 2025
+* (PC Member) Annual Computer Security Applications Conference (ACSAC) 2024
+* (PC Member) Workshop Designing Security for the Web (SecWeb) 2024
+* (PC Member) Workshop on Measurements, Attacks, and Defenses for the Web (MADWeb) 2024
+* (PC Member) The 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)
 * (PC Member) 28th European Symposium on Research in Computer Security (ESORICS 2023)
 * (PC Member) 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)
 * (External Reviewer) European Symposium on Research in Computer Security, ESORICS, 2022
